@@ -1,0 +1,7 @@
+customer_support_tickets.csv
+*.pyc
+__pycache__/
+.venv/
+venv/
+.env/
+.DS_Store

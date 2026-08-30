@@ -1,0 +1,13 @@
+
+TICKET CLASSIFICATION SUMMARY
+------------------------------------------------
+Total tickets: 47837
+Categories: 8
+Accuracy: 0.852
+
+HOW THIS SYSTEM HELPS BUSINESS:
+- Automatically categorizes incoming tickets
+- Assigns priority levels (High/Medium/Low)
+- Reduces manual sorting time
+- Routes tickets to the right team
+- Improves response times
